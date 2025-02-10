@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+f453c73a588cb917db91fa3e80cc9c9c CMakeFiles/Tarefa_WLS0302_ws2812_pio_h
+6e674c38436434943236a471621803fe pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_bin
+c188fa80cb354397cfa5dba80b722833 pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
+f28879fa4a88043f12956a916a8ce330 pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S
+c213ae723093935639204d38ecfc81cb pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/cyw43_driver_picow_cyw43_bus_pio_spi_pio_h
+39bc513897418d10e17358acb9d28781 pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.pio.h
+dd62a0055e12631077647b7e5ad5c6fc ws2812.pio.h
